@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FNFUNBLOCKED
-- 👀 I’m interested in trying to learn how to unblock FNF for school
-- 🌱 I’m currently learning read the above 
-- 💞️ I’m looking to collaborate on nobody
-- 📫 How to reach me YOU SHALL NOT lmao
+- 👀 trying to port for you guys at school :)
+- 🌱 currently lerning how to work vs code
+- 💞️ anyone wanna help me port?
+- 📫 you can talk to me by adding issues in my repositories, or just plain out email me (dmanrs@icloud.com)
 
 <!---
 FNFUNBLOCKED/FNFUNBLOCKED is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
